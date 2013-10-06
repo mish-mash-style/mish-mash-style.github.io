@@ -1,0 +1,20 @@
+{
+	"partials": [
+		{
+			"title": "Navigation",
+			"location": "_partials/navigation.json"
+		},
+		{
+			"title": "Grids",
+			"location": "_partials/grids.json"
+		},
+		{
+			"title": "Fonts",
+			"location": "_partials/fonts.json"
+		},
+		{
+			"title": "Forms",
+			"location": "_partials/forms.json"
+		}
+	]
+}
